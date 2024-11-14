@@ -8,7 +8,7 @@ import lombok.ToString;
 import java.io.PrintStream;
 import java.util.*;
 
-/***
+/****
  * Représente une voiture qui peut être stationnée dans des garages.
  */
 @RequiredArgsConstructor
